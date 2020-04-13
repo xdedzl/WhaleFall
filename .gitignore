@@ -1,0 +1,11 @@
+Library
+Temp
+obj
+Logs
+UnityPackageManager
+.vs
+*.csproj
+*.sln
+Assets/ZTest*
+Assets/ExampleAssets*
+Assets/Crest/Crest-Examples*
